@@ -129,6 +129,7 @@ All of these blocks are found under **Actors > Draw** in the Design Mode Palette
 This block switches the actor's animation to the one you specify.
 
 ![stencyl-design-mode-switch-animation-block](http://static.stencyl.com/pedia2/ch3/animation/image13.png)
+Updated: Now we deleted the "as animation" block and we re-changed this block. For now, just write the animation's name on it.
  
 #### What's the current Animation?
 This block returns the animation that is currently playing.
